@@ -1,0 +1,501 @@
+Product ID,Brand,Product Type,Skin Type,Price,Rating,Ingredients,Comedogenic,Budget Category,Popularity Score
+1,CeraVe,Cleanser,Acne-prone,726,4.1,Niacinamide,No,Medium,57
+2,CeraVe,Cream,Combination,1274,4.5,Tea Tree,Yes,High,95
+3,Minimalist,Face Wash,Sensitive,1817,4.4,Niacinamide,No,High,100
+4,Neutrogena,Toner,Oily,1860,3.6,Zinc,No,High,62
+5,The Ordinary,Cleanser,Dry,1433,3.5,Salicylic Acid,Yes,High,63
+6,Minimalist,Sunscreen,Acne-prone,1753,3.1,Aloe Vera,No,High,90
+7,Neutrogena,Serum,Oily,239,3.4,Hyaluronic Acid,Yes,Low,91
+8,Mamaearth,Toner,Dry,1370,4.3,Zinc,No,High,86
+9,Plum,Cream,Sensitive,1390,3.3,Vitamin C,Yes,High,78
+10,Minimalist,Sunscreen,Sensitive,410,3.1,Glycolic Acid,Yes,Low,82
+11,Mamaearth,Cream,Sensitive,1275,4.7,Hyaluronic Acid,No,High,83
+12,Neutrogena,Gel,Combination,1413,3.7,Ceramides,Yes,High,57
+13,Plum,Sunscreen,Dry,1704,4.1,Vitamin C,Yes,High,90
+14,Cetaphil,Cream,Sensitive,1922,3.3,Salicylic Acid,Yes,High,90
+15,Cetaphil,Moisturizer,Dry,287,3.4,Zinc,No,Low,66
+16,CeraVe,Toner,Sensitive,1524,3.9,Vitamin C,No,High,52
+17,The Ordinary,Cream,Sensitive,1732,3.6,Vitamin C,Yes,High,54
+18,The Ordinary,Moisturizer,Acne-prone,855,3.2,Glycolic Acid,No,Medium,61
+19,CeraVe,Gel,Acne-prone,604,3.2,Glycolic Acid,No,Medium,96
+20,CeraVe,Gel,Oily,1882,4.0,Aloe Vera,Yes,High,74
+21,Minimalist,Sunscreen,Oily,1457,4.9,Vitamin C,Yes,High,50
+22,La Roche-Posay,Toner,Dry,1044,3.8,Niacinamide,Yes,High,91
+23,Bioderma,Serum,Combination,761,3.2,Salicylic Acid,No,Medium,75
+24,The Ordinary,Sunscreen,Dry,743,4.2,Hyaluronic Acid,Yes,Medium,82
+25,Cetaphil,Gel,Acne-prone,939,3.4,Zinc,No,Medium,66
+26,Minimalist,Sunscreen,Sensitive,262,3.6,Retinol,Yes,Low,99
+27,The Ordinary,Face Wash,Acne-prone,1566,3.8,Salicylic Acid,No,High,72
+28,The Ordinary,Toner,Oily,361,3.7,Retinol,Yes,Low,68
+29,La Roche-Posay,Serum,Sensitive,1217,4.8,Vitamin C,Yes,High,62
+30,Bioderma,Gel,Oily,1156,4.0,Aloe Vera,Yes,High,81
+31,Minimalist,Toner,Sensitive,1553,4.7,Hyaluronic Acid,Yes,High,93
+32,Mamaearth,Moisturizer,Combination,1869,3.5,Ceramides,No,High,96
+33,Minimalist,Serum,Oily,1288,3.3,Hyaluronic Acid,Yes,High,59
+34,Minimalist,Cream,Acne-prone,1036,3.9,Hyaluronic Acid,No,High,73
+35,Dot & Key,Cream,Dry,613,3.4,Ceramides,No,Medium,71
+36,La Roche-Posay,Gel,Sensitive,1684,4.7,Ceramides,No,High,79
+37,Dot & Key,Face Wash,Sensitive,1098,3.8,Hyaluronic Acid,Yes,High,71
+38,Cetaphil,Face Wash,Combination,1489,3.5,Aloe Vera,No,High,62
+39,Dot & Key,Sunscreen,Oily,1983,4.7,Glycolic Acid,No,High,94
+40,The Ordinary,Cream,Oily,825,5.0,Hyaluronic Acid,Yes,Medium,88
+41,Minimalist,Sunscreen,Dry,880,4.7,Aloe Vera,Yes,Medium,71
+42,Plum,Toner,Acne-prone,1609,3.4,Ceramides,No,High,91
+43,Mamaearth,Cleanser,Dry,868,3.2,Aloe Vera,Yes,Medium,82
+44,Cetaphil,Moisturizer,Acne-prone,1511,3.8,Tea Tree,No,High,83
+45,The Ordinary,Serum,Combination,1664,4.6,Salicylic Acid,No,High,61
+46,The Ordinary,Moisturizer,Combination,430,4.4,Salicylic Acid,Yes,Low,86
+47,Minimalist,Cleanser,Oily,727,3.9,Niacinamide,Yes,Medium,58
+48,Plum,Gel,Sensitive,239,3.9,Salicylic Acid,Yes,Low,54
+49,Neutrogena,Serum,Combination,320,3.1,Retinol,Yes,Low,61
+50,Minimalist,Sunscreen,Sensitive,1310,3.2,Salicylic Acid,Yes,High,84
+51,La Roche-Posay,Serum,Acne-prone,822,4.6,Aloe Vera,Yes,Medium,54
+52,Plum,Cream,Combination,625,4.0,Hyaluronic Acid,No,Medium,70
+53,Minimalist,Face Wash,Sensitive,847,4.1,Niacinamide,No,Medium,57
+54,Dot & Key,Serum,Combination,761,4.7,Vitamin C,No,Medium,100
+55,The Ordinary,Toner,Combination,763,3.1,Ceramides,Yes,Medium,58
+56,La Roche-Posay,Serum,Combination,662,4.6,Ceramides,Yes,Medium,88
+57,Cetaphil,Sunscreen,Acne-prone,1880,4.0,Glycolic Acid,No,High,86
+58,CeraVe,Cleanser,Acne-prone,1261,4.6,Aloe Vera,No,High,93
+59,La Roche-Posay,Sunscreen,Sensitive,1481,3.2,Retinol,No,High,99
+60,Cetaphil,Cleanser,Sensitive,596,4.5,Retinol,Yes,Medium,100
+61,Mamaearth,Cream,Oily,331,5.0,Vitamin C,No,Low,65
+62,Neutrogena,Moisturizer,Acne-prone,1558,4.5,Ceramides,Yes,High,97
+63,Cetaphil,Face Wash,Combination,895,3.5,Hyaluronic Acid,Yes,Medium,75
+64,CeraVe,Serum,Acne-prone,553,4.0,Vitamin C,Yes,Medium,85
+65,CeraVe,Serum,Combination,901,3.9,Niacinamide,Yes,Medium,60
+66,The Ordinary,Serum,Combination,1840,3.1,Vitamin C,Yes,High,75
+67,La Roche-Posay,Gel,Combination,1641,4.4,Hyaluronic Acid,Yes,High,60
+68,Cetaphil,Cream,Oily,1010,3.9,Vitamin C,Yes,High,99
+69,Bioderma,Sunscreen,Dry,378,4.2,Glycolic Acid,Yes,Low,78
+70,La Roche-Posay,Cleanser,Sensitive,1311,3.9,Aloe Vera,No,High,65
+71,Bioderma,Face Wash,Dry,1394,3.3,Aloe Vera,No,High,85
+72,La Roche-Posay,Moisturizer,Sensitive,1513,4.3,Retinol,No,High,84
+73,Cetaphil,Face Wash,Dry,1616,4.0,Vitamin C,Yes,High,50
+74,Dot & Key,Toner,Dry,632,4.7,Hyaluronic Acid,Yes,Medium,95
+75,The Ordinary,Cream,Acne-prone,1900,3.6,Zinc,Yes,High,60
+76,CeraVe,Moisturizer,Sensitive,1946,3.8,Salicylic Acid,Yes,High,51
+77,Cetaphil,Toner,Oily,1149,3.2,Ceramides,No,High,84
+78,Neutrogena,Serum,Dry,773,4.1,Ceramides,Yes,Medium,62
+79,La Roche-Posay,Serum,Dry,1477,4.3,Niacinamide,Yes,High,81
+80,Neutrogena,Serum,Oily,1373,3.9,Salicylic Acid,Yes,High,72
+81,La Roche-Posay,Cream,Acne-prone,320,4.1,Ceramides,No,Low,89
+82,Dot & Key,Cleanser,Combination,514,3.5,Ceramides,No,Medium,57
+83,Neutrogena,Gel,Dry,1026,4.9,Vitamin C,No,High,78
+84,Cetaphil,Moisturizer,Sensitive,271,3.5,Aloe Vera,Yes,Low,75
+85,Cetaphil,Cream,Oily,731,3.4,Retinol,No,Medium,63
+86,Dot & Key,Cleanser,Sensitive,1937,4.2,Ceramides,No,High,62
+87,Cetaphil,Face Wash,Acne-prone,848,4.4,Hyaluronic Acid,Yes,Medium,88
+88,Dot & Key,Moisturizer,Sensitive,1494,4.5,Salicylic Acid,Yes,High,61
+89,Cetaphil,Cream,Oily,361,3.8,Zinc,No,Low,64
+90,La Roche-Posay,Face Wash,Combination,559,4.7,Ceramides,Yes,Medium,64
+91,Dot & Key,Face Wash,Combination,1488,3.9,Retinol,Yes,High,90
+92,Mamaearth,Face Wash,Acne-prone,1968,3.8,Glycolic Acid,Yes,High,69
+93,Neutrogena,Cream,Sensitive,1938,3.6,Glycolic Acid,Yes,High,91
+94,CeraVe,Cleanser,Acne-prone,722,4.6,Tea Tree,No,Medium,58
+95,Minimalist,Moisturizer,Sensitive,1438,3.8,Zinc,No,High,80
+96,Mamaearth,Cleanser,Sensitive,1110,4.7,Glycolic Acid,No,High,80
+97,Mamaearth,Sunscreen,Acne-prone,1361,3.4,Retinol,No,High,96
+98,Minimalist,Cream,Dry,348,4.7,Hyaluronic Acid,Yes,Low,74
+99,The Ordinary,Toner,Sensitive,1870,3.2,Ceramides,Yes,High,73
+100,Minimalist,Moisturizer,Sensitive,346,3.9,Ceramides,No,Low,74
+101,Bioderma,Gel,Oily,329,4.6,Aloe Vera,Yes,Low,94
+102,Bioderma,Toner,Sensitive,1386,3.6,Zinc,Yes,High,60
+103,Plum,Serum,Oily,853,3.2,Vitamin C,No,Medium,81
+104,Plum,Cream,Acne-prone,674,3.3,Ceramides,Yes,Medium,99
+105,La Roche-Posay,Moisturizer,Dry,1917,3.2,Zinc,No,High,58
+106,Plum,Gel,Combination,1233,3.4,Retinol,Yes,High,64
+107,Bioderma,Sunscreen,Dry,1177,3.9,Hyaluronic Acid,No,High,63
+108,Minimalist,Face Wash,Oily,1794,3.2,Vitamin C,No,High,78
+109,Bioderma,Sunscreen,Combination,1952,3.2,Hyaluronic Acid,Yes,High,98
+110,CeraVe,Sunscreen,Acne-prone,402,3.8,Zinc,Yes,Low,96
+111,La Roche-Posay,Cleanser,Sensitive,1151,4.5,Retinol,Yes,High,96
+112,Cetaphil,Cream,Acne-prone,840,4.7,Ceramides,No,Medium,85
+113,Neutrogena,Serum,Oily,1227,3.4,Aloe Vera,No,High,97
+114,Minimalist,Gel,Combination,201,4.4,Aloe Vera,No,Low,65
+115,La Roche-Posay,Cleanser,Oily,381,4.6,Niacinamide,Yes,Low,74
+116,Cetaphil,Toner,Sensitive,341,4.5,Zinc,Yes,Low,71
+117,Mamaearth,Cream,Sensitive,1720,3.3,Niacinamide,No,High,70
+118,Neutrogena,Cleanser,Combination,1342,4.3,Ceramides,Yes,High,63
+119,CeraVe,Sunscreen,Acne-prone,1846,4.6,Zinc,No,High,63
+120,Bioderma,Cream,Acne-prone,1126,3.7,Hyaluronic Acid,No,High,94
+121,The Ordinary,Gel,Sensitive,1772,4.3,Zinc,Yes,High,97
+122,Dot & Key,Sunscreen,Oily,837,3.8,Niacinamide,Yes,Medium,53
+123,The Ordinary,Sunscreen,Oily,891,3.1,Tea Tree,No,Medium,61
+124,CeraVe,Toner,Sensitive,1845,3.1,Retinol,No,High,93
+125,Bioderma,Serum,Oily,1754,3.2,Aloe Vera,No,High,75
+126,Minimalist,Cream,Acne-prone,495,3.1,Tea Tree,Yes,Low,87
+127,Bioderma,Cleanser,Acne-prone,1408,3.4,Retinol,No,High,83
+128,Minimalist,Gel,Oily,625,4.3,Ceramides,No,Medium,58
+129,The Ordinary,Toner,Acne-prone,275,4.5,Tea Tree,No,Low,65
+130,Bioderma,Moisturizer,Oily,338,3.8,Hyaluronic Acid,No,Low,58
+131,Cetaphil,Toner,Acne-prone,229,3.7,Hyaluronic Acid,No,Low,85
+132,Cetaphil,Moisturizer,Acne-prone,1342,4.9,Hyaluronic Acid,No,High,97
+133,Bioderma,Toner,Oily,1157,4.4,Hyaluronic Acid,Yes,High,81
+134,Neutrogena,Moisturizer,Dry,1588,3.2,Vitamin C,Yes,High,94
+135,CeraVe,Cream,Sensitive,1878,4.6,Retinol,No,High,56
+136,The Ordinary,Toner,Sensitive,697,3.1,Tea Tree,No,Medium,51
+137,La Roche-Posay,Cream,Sensitive,541,4.9,Retinol,No,Medium,75
+138,The Ordinary,Sunscreen,Sensitive,332,3.3,Vitamin C,Yes,Low,92
+139,Bioderma,Toner,Combination,987,5.0,Zinc,No,Medium,95
+140,CeraVe,Toner,Sensitive,1024,3.5,Aloe Vera,Yes,High,61
+141,Cetaphil,Gel,Combination,539,3.9,Retinol,Yes,Medium,56
+142,CeraVe,Face Wash,Acne-prone,263,4.1,Zinc,Yes,Low,89
+143,CeraVe,Moisturizer,Oily,1927,3.2,Salicylic Acid,No,High,89
+144,Bioderma,Gel,Combination,1697,3.7,Zinc,Yes,High,87
+145,Bioderma,Toner,Sensitive,1555,3.1,Retinol,Yes,High,78
+146,CeraVe,Cream,Dry,1176,4.3,Salicylic Acid,No,High,94
+147,Mamaearth,Face Wash,Acne-prone,1506,4.9,Salicylic Acid,No,High,61
+148,Dot & Key,Gel,Acne-prone,1335,4.8,Retinol,Yes,High,78
+149,The Ordinary,Cleanser,Acne-prone,496,3.0,Niacinamide,No,Low,78
+150,Cetaphil,Face Wash,Dry,1250,3.2,Retinol,Yes,High,96
+151,CeraVe,Cream,Dry,1410,3.0,Niacinamide,Yes,High,85
+152,Bioderma,Cream,Sensitive,1079,4.3,Salicylic Acid,No,High,50
+153,The Ordinary,Cream,Acne-prone,1636,3.5,Zinc,No,High,91
+154,Mamaearth,Serum,Dry,1489,3.7,Glycolic Acid,No,High,99
+155,The Ordinary,Cream,Combination,1576,3.3,Tea Tree,Yes,High,69
+156,Plum,Moisturizer,Dry,505,3.1,Niacinamide,Yes,Medium,67
+157,Bioderma,Toner,Dry,889,4.8,Ceramides,Yes,Medium,97
+158,Bioderma,Toner,Combination,1083,3.1,Tea Tree,No,High,99
+159,Mamaearth,Cream,Combination,1654,4.0,Tea Tree,No,High,57
+160,Minimalist,Cleanser,Oily,593,3.1,Aloe Vera,Yes,Medium,96
+161,Cetaphil,Face Wash,Oily,392,4.1,Glycolic Acid,Yes,Low,59
+162,CeraVe,Cleanser,Sensitive,216,4.5,Tea Tree,No,Low,61
+163,Dot & Key,Serum,Combination,550,4.4,Vitamin C,No,Medium,67
+164,CeraVe,Sunscreen,Acne-prone,1086,4.4,Niacinamide,Yes,High,50
+165,Cetaphil,Cream,Sensitive,447,3.6,Vitamin C,Yes,Low,61
+166,Mamaearth,Cream,Dry,1883,3.8,Tea Tree,Yes,High,97
+167,Mamaearth,Gel,Sensitive,847,3.5,Hyaluronic Acid,No,Medium,82
+168,La Roche-Posay,Serum,Oily,1200,3.3,Zinc,Yes,High,88
+169,Dot & Key,Serum,Acne-prone,281,4.8,Zinc,No,Low,66
+170,Minimalist,Toner,Combination,455,4.7,Hyaluronic Acid,Yes,Low,83
+171,Bioderma,Sunscreen,Combination,1618,4.9,Tea Tree,Yes,High,98
+172,CeraVe,Serum,Combination,981,4.0,Vitamin C,Yes,Medium,100
+173,La Roche-Posay,Toner,Dry,1426,3.6,Zinc,Yes,High,85
+174,Mamaearth,Serum,Combination,1721,4.5,Glycolic Acid,Yes,High,50
+175,CeraVe,Gel,Dry,1472,3.3,Salicylic Acid,Yes,High,91
+176,Mamaearth,Serum,Combination,699,3.7,Vitamin C,No,Medium,77
+177,Plum,Face Wash,Dry,1839,3.5,Tea Tree,Yes,High,54
+178,CeraVe,Face Wash,Dry,1320,3.9,Glycolic Acid,Yes,High,80
+179,CeraVe,Moisturizer,Acne-prone,1437,4.9,Glycolic Acid,No,High,71
+180,CeraVe,Face Wash,Oily,567,3.3,Ceramides,No,Medium,97
+181,Cetaphil,Toner,Oily,1808,3.9,Ceramides,Yes,High,58
+182,Bioderma,Cream,Acne-prone,329,4.5,Vitamin C,Yes,Low,56
+183,Dot & Key,Cream,Combination,435,3.7,Vitamin C,No,Low,67
+184,Neutrogena,Cream,Acne-prone,1810,4.8,Salicylic Acid,No,High,65
+185,Dot & Key,Serum,Oily,663,4.6,Vitamin C,Yes,Medium,54
+186,CeraVe,Toner,Acne-prone,988,4.5,Glycolic Acid,Yes,Medium,71
+187,Mamaearth,Toner,Sensitive,705,4.8,Niacinamide,Yes,Medium,59
+188,Neutrogena,Moisturizer,Sensitive,1394,4.7,Vitamin C,Yes,High,57
+189,La Roche-Posay,Cream,Acne-prone,471,5.0,Retinol,Yes,Low,96
+190,The Ordinary,Toner,Sensitive,759,4.0,Ceramides,No,Medium,55
+191,Minimalist,Moisturizer,Combination,1837,3.1,Zinc,No,High,67
+192,Bioderma,Gel,Combination,1511,3.1,Niacinamide,Yes,High,76
+193,Plum,Moisturizer,Oily,638,3.9,Zinc,No,Medium,75
+194,Minimalist,Gel,Acne-prone,517,4.4,Glycolic Acid,Yes,Medium,65
+195,Mamaearth,Cream,Oily,1042,4.8,Retinol,Yes,High,73
+196,The Ordinary,Cream,Acne-prone,607,4.6,Glycolic Acid,No,Medium,70
+197,Bioderma,Moisturizer,Sensitive,402,3.6,Zinc,Yes,Low,60
+198,Plum,Serum,Sensitive,243,3.8,Ceramides,Yes,Low,72
+199,Neutrogena,Face Wash,Dry,1703,4.5,Vitamin C,Yes,High,50
+200,CeraVe,Moisturizer,Dry,1272,3.6,Retinol,No,High,53
+201,CeraVe,Cleanser,Acne-prone,1826,4.3,Hyaluronic Acid,Yes,High,61
+202,Dot & Key,Cream,Sensitive,1520,5.0,Vitamin C,No,High,62
+203,Plum,Sunscreen,Acne-prone,775,4.3,Zinc,Yes,Medium,76
+204,Bioderma,Gel,Dry,1407,4.3,Tea Tree,No,High,91
+205,Bioderma,Serum,Combination,286,4.3,Glycolic Acid,No,Low,100
+206,The Ordinary,Gel,Oily,703,4.6,Aloe Vera,No,Medium,51
+207,Cetaphil,Gel,Oily,586,4.6,Retinol,No,Medium,55
+208,The Ordinary,Cleanser,Sensitive,854,3.3,Aloe Vera,Yes,Medium,80
+209,Neutrogena,Cleanser,Acne-prone,471,3.0,Salicylic Acid,Yes,Low,92
+210,Mamaearth,Gel,Dry,371,3.7,Glycolic Acid,No,Low,52
+211,Bioderma,Gel,Combination,889,3.6,Tea Tree,Yes,Medium,70
+212,Minimalist,Sunscreen,Oily,1797,3.2,Salicylic Acid,No,High,98
+213,Bioderma,Cleanser,Acne-prone,603,3.2,Retinol,Yes,Medium,58
+214,La Roche-Posay,Sunscreen,Dry,424,3.3,Retinol,Yes,Low,80
+215,Neutrogena,Cream,Sensitive,1659,4.8,Zinc,No,High,69
+216,CeraVe,Sunscreen,Acne-prone,1437,3.5,Vitamin C,Yes,High,96
+217,Plum,Cleanser,Dry,936,4.0,Tea Tree,No,Medium,93
+218,La Roche-Posay,Toner,Sensitive,1107,4.4,Vitamin C,Yes,High,59
+219,Cetaphil,Gel,Combination,1310,3.0,Glycolic Acid,Yes,High,87
+220,Neutrogena,Moisturizer,Oily,1499,4.3,Ceramides,No,High,54
+221,Minimalist,Moisturizer,Dry,894,4.0,Hyaluronic Acid,Yes,Medium,72
+222,La Roche-Posay,Moisturizer,Sensitive,1670,4.7,Tea Tree,Yes,High,54
+223,The Ordinary,Cream,Dry,547,4.2,Retinol,No,Medium,73
+224,Mamaearth,Cleanser,Acne-prone,745,4.5,Niacinamide,No,Medium,91
+225,Minimalist,Moisturizer,Dry,356,3.4,Ceramides,Yes,Low,86
+226,Plum,Toner,Sensitive,1069,3.1,Ceramides,Yes,High,67
+227,Minimalist,Toner,Oily,1904,3.3,Ceramides,No,High,85
+228,La Roche-Posay,Sunscreen,Dry,637,4.2,Glycolic Acid,Yes,Medium,82
+229,Minimalist,Serum,Sensitive,756,3.7,Salicylic Acid,Yes,Medium,65
+230,CeraVe,Face Wash,Acne-prone,1218,3.0,Tea Tree,Yes,High,78
+231,Plum,Cream,Combination,567,3.4,Aloe Vera,Yes,Medium,63
+232,Dot & Key,Toner,Combination,864,4.9,Aloe Vera,Yes,Medium,64
+233,Mamaearth,Cleanser,Combination,928,3.6,Tea Tree,Yes,Medium,56
+234,Cetaphil,Cleanser,Oily,1885,5.0,Glycolic Acid,Yes,High,55
+235,Cetaphil,Serum,Sensitive,935,4.1,Vitamin C,No,Medium,73
+236,Cetaphil,Sunscreen,Combination,373,5.0,Zinc,No,Low,63
+237,Bioderma,Cleanser,Combination,698,4.1,Retinol,Yes,Medium,80
+238,Bioderma,Serum,Combination,237,3.7,Glycolic Acid,No,Low,85
+239,CeraVe,Moisturizer,Sensitive,1180,3.6,Niacinamide,Yes,High,62
+240,Plum,Gel,Combination,318,3.7,Vitamin C,No,Low,61
+241,Minimalist,Toner,Dry,1935,4.9,Glycolic Acid,No,High,59
+242,Dot & Key,Sunscreen,Sensitive,1872,3.5,Retinol,Yes,High,51
+243,CeraVe,Serum,Acne-prone,1372,3.9,Tea Tree,No,High,84
+244,Plum,Cleanser,Sensitive,428,4.5,Ceramides,Yes,Low,60
+245,Bioderma,Sunscreen,Sensitive,1498,4.8,Vitamin C,No,High,92
+246,The Ordinary,Cream,Sensitive,1150,4.9,Ceramides,No,High,80
+247,La Roche-Posay,Toner,Oily,1714,3.2,Aloe Vera,No,High,61
+248,Bioderma,Toner,Combination,641,3.8,Zinc,No,Medium,97
+249,Neutrogena,Moisturizer,Oily,1757,3.6,Ceramides,Yes,High,96
+250,Cetaphil,Face Wash,Sensitive,453,3.2,Zinc,No,Low,53
+251,Cetaphil,Cleanser,Sensitive,1921,3.2,Zinc,No,High,66
+252,Mamaearth,Gel,Combination,1558,3.9,Salicylic Acid,Yes,High,58
+253,Mamaearth,Sunscreen,Dry,1675,4.1,Hyaluronic Acid,Yes,High,63
+254,Dot & Key,Sunscreen,Acne-prone,1548,3.5,Hyaluronic Acid,No,High,88
+255,La Roche-Posay,Serum,Sensitive,1050,3.1,Glycolic Acid,Yes,High,91
+256,La Roche-Posay,Face Wash,Dry,1377,4.5,Ceramides,No,High,76
+257,CeraVe,Serum,Acne-prone,725,3.1,Hyaluronic Acid,Yes,Medium,74
+258,CeraVe,Cleanser,Acne-prone,338,4.6,Tea Tree,Yes,Low,85
+259,Cetaphil,Moisturizer,Acne-prone,347,4.8,Niacinamide,No,Low,70
+260,CeraVe,Moisturizer,Oily,1824,5.0,Tea Tree,No,High,64
+261,CeraVe,Moisturizer,Acne-prone,1690,4.3,Zinc,No,High,71
+262,Bioderma,Toner,Dry,1666,5.0,Salicylic Acid,No,High,54
+263,Neutrogena,Cleanser,Sensitive,290,3.1,Zinc,No,Low,51
+264,The Ordinary,Toner,Combination,1787,4.4,Vitamin C,No,High,66
+265,La Roche-Posay,Cleanser,Combination,1035,4.1,Hyaluronic Acid,Yes,High,65
+266,Neutrogena,Serum,Combination,1586,3.1,Hyaluronic Acid,Yes,High,94
+267,CeraVe,Moisturizer,Oily,1153,4.6,Ceramides,No,High,63
+268,Cetaphil,Gel,Dry,1176,3.7,Tea Tree,Yes,High,73
+269,Cetaphil,Serum,Oily,1485,3.6,Retinol,No,High,98
+270,Plum,Sunscreen,Dry,1578,5.0,Glycolic Acid,No,High,97
+271,Plum,Sunscreen,Sensitive,944,5.0,Aloe Vera,Yes,Medium,60
+272,Cetaphil,Face Wash,Oily,252,4.0,Glycolic Acid,No,Low,84
+273,The Ordinary,Gel,Acne-prone,1845,3.9,Tea Tree,Yes,High,86
+274,Mamaearth,Cleanser,Combination,1722,4.4,Ceramides,No,High,61
+275,The Ordinary,Sunscreen,Acne-prone,449,3.2,Tea Tree,No,Low,59
+276,The Ordinary,Sunscreen,Oily,1683,4.6,Hyaluronic Acid,Yes,High,59
+277,The Ordinary,Face Wash,Oily,1894,3.5,Tea Tree,No,High,90
+278,Neutrogena,Serum,Oily,366,3.9,Zinc,No,Low,51
+279,Neutrogena,Moisturizer,Acne-prone,1441,4.0,Tea Tree,No,High,98
+280,Plum,Moisturizer,Oily,1500,4.1,Glycolic Acid,Yes,High,72
+281,Cetaphil,Sunscreen,Combination,1537,3.5,Tea Tree,No,High,98
+282,Mamaearth,Toner,Acne-prone,620,4.3,Aloe Vera,No,Medium,67
+283,Mamaearth,Face Wash,Combination,1890,3.9,Hyaluronic Acid,No,High,52
+284,Dot & Key,Cream,Sensitive,797,4.5,Tea Tree,No,Medium,71
+285,Plum,Moisturizer,Oily,939,4.5,Niacinamide,Yes,Medium,84
+286,Cetaphil,Gel,Oily,308,4.9,Niacinamide,No,Low,92
+287,Bioderma,Cream,Oily,1264,4.2,Vitamin C,No,High,92
+288,Mamaearth,Sunscreen,Acne-prone,547,4.0,Zinc,No,Medium,79
+289,Dot & Key,Gel,Oily,1215,3.6,Niacinamide,No,High,54
+290,Bioderma,Serum,Combination,1067,3.1,Niacinamide,Yes,High,91
+291,The Ordinary,Cleanser,Dry,501,3.7,Niacinamide,Yes,Medium,93
+292,Dot & Key,Serum,Sensitive,437,3.6,Tea Tree,Yes,Low,68
+293,Minimalist,Toner,Acne-prone,231,3.9,Retinol,Yes,Low,91
+294,Plum,Moisturizer,Acne-prone,935,4.1,Salicylic Acid,No,Medium,59
+295,CeraVe,Face Wash,Combination,728,4.6,Salicylic Acid,No,Medium,63
+296,Bioderma,Face Wash,Sensitive,1554,4.3,Zinc,Yes,High,78
+297,Minimalist,Cream,Combination,1797,4.5,Vitamin C,No,High,72
+298,Dot & Key,Cream,Oily,699,4.1,Ceramides,Yes,Medium,54
+299,Dot & Key,Face Wash,Dry,1697,3.6,Retinol,No,High,100
+300,La Roche-Posay,Cleanser,Dry,1821,4.0,Ceramides,Yes,High,88
+301,La Roche-Posay,Toner,Acne-prone,1454,3.5,Aloe Vera,Yes,High,51
+302,The Ordinary,Cream,Combination,370,4.2,Aloe Vera,Yes,Low,66
+303,Dot & Key,Moisturizer,Combination,1662,4.6,Ceramides,No,High,81
+304,CeraVe,Moisturizer,Combination,1203,4.0,Ceramides,Yes,High,74
+305,Bioderma,Sunscreen,Sensitive,1520,4.0,Glycolic Acid,No,High,79
+306,CeraVe,Sunscreen,Combination,1585,3.3,Retinol,No,High,83
+307,Minimalist,Toner,Combination,1651,3.0,Retinol,Yes,High,51
+308,La Roche-Posay,Toner,Sensitive,605,3.4,Niacinamide,No,Medium,64
+309,Plum,Gel,Combination,485,3.0,Retinol,No,Low,51
+310,Minimalist,Face Wash,Sensitive,1481,3.8,Ceramides,Yes,High,72
+311,Cetaphil,Toner,Oily,1427,4.2,Zinc,No,High,51
+312,CeraVe,Cream,Sensitive,1104,3.1,Tea Tree,No,High,58
+313,The Ordinary,Face Wash,Sensitive,1951,3.7,Ceramides,No,High,66
+314,Bioderma,Moisturizer,Combination,436,5.0,Zinc,Yes,Low,99
+315,CeraVe,Cleanser,Acne-prone,1263,3.9,Zinc,Yes,High,76
+316,Mamaearth,Cream,Sensitive,1507,4.8,Glycolic Acid,Yes,High,86
+317,Neutrogena,Gel,Acne-prone,732,3.7,Niacinamide,No,Medium,73
+318,Mamaearth,Face Wash,Sensitive,276,4.7,Retinol,Yes,Low,63
+319,Bioderma,Face Wash,Acne-prone,1495,3.2,Retinol,No,High,98
+320,Bioderma,Moisturizer,Dry,1255,3.1,Salicylic Acid,No,High,81
+321,Minimalist,Toner,Oily,1630,3.9,Zinc,Yes,High,52
+322,Plum,Serum,Sensitive,685,4.8,Niacinamide,Yes,Medium,65
+323,Plum,Sunscreen,Combination,718,3.2,Aloe Vera,Yes,Medium,97
+324,Dot & Key,Cream,Sensitive,1164,4.1,Retinol,Yes,High,81
+325,Dot & Key,Serum,Sensitive,802,3.1,Glycolic Acid,Yes,Medium,54
+326,Cetaphil,Sunscreen,Combination,1354,3.8,Vitamin C,No,High,50
+327,Cetaphil,Gel,Combination,427,3.9,Zinc,Yes,Low,66
+328,La Roche-Posay,Cleanser,Acne-prone,1806,3.6,Glycolic Acid,Yes,High,51
+329,The Ordinary,Gel,Sensitive,757,4.6,Vitamin C,No,Medium,70
+330,The Ordinary,Sunscreen,Acne-prone,1593,4.9,Retinol,Yes,High,88
+331,La Roche-Posay,Cleanser,Dry,309,3.4,Hyaluronic Acid,No,Low,67
+332,Cetaphil,Moisturizer,Acne-prone,1968,4.6,Zinc,No,High,54
+333,CeraVe,Moisturizer,Acne-prone,1782,4.6,Zinc,No,High,94
+334,Dot & Key,Moisturizer,Sensitive,1910,3.7,Salicylic Acid,No,High,87
+335,La Roche-Posay,Toner,Combination,846,5.0,Salicylic Acid,No,Medium,89
+336,Cetaphil,Sunscreen,Dry,1115,4.4,Retinol,No,High,82
+337,CeraVe,Cleanser,Dry,1021,5.0,Tea Tree,Yes,High,76
+338,Minimalist,Gel,Acne-prone,830,3.8,Niacinamide,Yes,Medium,55
+339,Mamaearth,Toner,Oily,1389,3.7,Glycolic Acid,No,High,88
+340,CeraVe,Face Wash,Acne-prone,431,4.3,Aloe Vera,No,Low,83
+341,Cetaphil,Toner,Sensitive,1992,4.3,Zinc,Yes,High,67
+342,La Roche-Posay,Serum,Oily,428,3.9,Ceramides,No,Low,93
+343,Bioderma,Cream,Sensitive,835,4.4,Retinol,Yes,Medium,71
+344,Dot & Key,Face Wash,Oily,1029,4.4,Aloe Vera,Yes,High,72
+345,The Ordinary,Sunscreen,Sensitive,1288,5.0,Glycolic Acid,No,High,94
+346,Plum,Cleanser,Oily,478,4.5,Tea Tree,No,Low,76
+347,Cetaphil,Cleanser,Sensitive,746,4.2,Salicylic Acid,Yes,Medium,98
+348,Neutrogena,Cleanser,Dry,666,3.6,Vitamin C,Yes,Medium,88
+349,The Ordinary,Gel,Dry,715,3.8,Hyaluronic Acid,Yes,Medium,77
+350,Neutrogena,Moisturizer,Acne-prone,1366,3.5,Glycolic Acid,Yes,High,62
+351,Bioderma,Sunscreen,Sensitive,233,4.2,Aloe Vera,No,Low,87
+352,Minimalist,Gel,Combination,955,4.9,Retinol,No,Medium,55
+353,Mamaearth,Face Wash,Combination,1423,5.0,Hyaluronic Acid,Yes,High,97
+354,Plum,Serum,Combination,1038,4.4,Salicylic Acid,No,High,59
+355,Bioderma,Serum,Combination,746,3.1,Vitamin C,Yes,Medium,61
+356,Neutrogena,Serum,Combination,239,4.7,Zinc,No,Low,80
+357,Bioderma,Face Wash,Dry,1194,4.4,Vitamin C,Yes,High,51
+358,Bioderma,Serum,Combination,1623,3.1,Ceramides,Yes,High,76
+359,Dot & Key,Gel,Dry,394,5.0,Tea Tree,No,Low,64
+360,Dot & Key,Cleanser,Combination,1933,3.6,Tea Tree,Yes,High,50
+361,Cetaphil,Face Wash,Dry,1704,3.1,Ceramides,No,High,79
+362,The Ordinary,Serum,Acne-prone,1504,3.0,Ceramides,No,High,56
+363,Plum,Serum,Combination,1735,3.2,Vitamin C,No,High,51
+364,Cetaphil,Serum,Combination,742,4.5,Ceramides,Yes,Medium,65
+365,Mamaearth,Gel,Sensitive,1196,3.1,Glycolic Acid,No,High,72
+366,The Ordinary,Cream,Acne-prone,1450,3.3,Zinc,No,High,66
+367,Cetaphil,Sunscreen,Sensitive,479,4.0,Aloe Vera,Yes,Low,81
+368,Cetaphil,Cleanser,Acne-prone,362,4.2,Aloe Vera,Yes,Low,54
+369,Bioderma,Serum,Combination,914,4.5,Retinol,Yes,Medium,59
+370,Mamaearth,Cleanser,Combination,1328,3.7,Vitamin C,No,High,98
+371,The Ordinary,Gel,Oily,456,3.9,Tea Tree,No,Low,96
+372,Cetaphil,Face Wash,Sensitive,1175,3.4,Vitamin C,Yes,High,55
+373,The Ordinary,Cream,Combination,1393,3.0,Tea Tree,Yes,High,94
+374,Mamaearth,Serum,Acne-prone,1574,4.5,Ceramides,No,High,76
+375,Cetaphil,Cleanser,Sensitive,859,3.6,Ceramides,Yes,Medium,72
+376,Mamaearth,Face Wash,Sensitive,524,4.8,Glycolic Acid,No,Medium,75
+377,La Roche-Posay,Sunscreen,Combination,1739,3.3,Retinol,No,High,63
+378,Neutrogena,Toner,Oily,842,4.5,Hyaluronic Acid,No,Medium,67
+379,Minimalist,Sunscreen,Sensitive,1719,4.4,Salicylic Acid,Yes,High,100
+380,Minimalist,Cream,Combination,345,3.1,Vitamin C,Yes,Low,76
+381,La Roche-Posay,Moisturizer,Dry,1027,3.6,Glycolic Acid,No,High,68
+382,Minimalist,Toner,Combination,931,3.4,Tea Tree,Yes,Medium,58
+383,Cetaphil,Face Wash,Dry,1307,4.9,Zinc,Yes,High,70
+384,Neutrogena,Cream,Oily,1968,3.4,Aloe Vera,Yes,High,71
+385,Minimalist,Sunscreen,Dry,1731,4.4,Aloe Vera,Yes,High,50
+386,CeraVe,Sunscreen,Combination,283,3.4,Salicylic Acid,Yes,Low,64
+387,Dot & Key,Face Wash,Sensitive,1281,3.3,Hyaluronic Acid,Yes,High,89
+388,Bioderma,Gel,Dry,960,3.3,Vitamin C,No,Medium,79
+389,Mamaearth,Cream,Dry,983,4.8,Hyaluronic Acid,Yes,Medium,51
+390,Bioderma,Toner,Acne-prone,457,4.3,Zinc,No,Low,50
+391,CeraVe,Sunscreen,Oily,1465,3.3,Aloe Vera,Yes,High,57
+392,The Ordinary,Sunscreen,Oily,472,3.0,Retinol,No,Low,55
+393,Minimalist,Gel,Sensitive,1398,4.4,Niacinamide,Yes,High,76
+394,Cetaphil,Cleanser,Combination,1805,4.9,Aloe Vera,No,High,78
+395,Neutrogena,Serum,Oily,1832,3.8,Aloe Vera,Yes,High,80
+396,Neutrogena,Toner,Dry,847,5.0,Retinol,No,Medium,100
+397,Cetaphil,Gel,Acne-prone,1103,4.7,Niacinamide,Yes,High,79
+398,The Ordinary,Moisturizer,Sensitive,1366,4.9,Tea Tree,No,High,81
+399,Cetaphil,Face Wash,Sensitive,347,3.6,Niacinamide,No,Low,85
+400,The Ordinary,Face Wash,Dry,776,4.4,Ceramides,No,Medium,55
+401,Neutrogena,Sunscreen,Sensitive,303,3.4,Hyaluronic Acid,No,Low,51
+402,Bioderma,Moisturizer,Acne-prone,457,3.7,Ceramides,Yes,Low,79
+403,Neutrogena,Serum,Sensitive,1574,3.7,Zinc,Yes,High,63
+404,Neutrogena,Gel,Oily,1683,3.5,Tea Tree,No,High,80
+405,Minimalist,Cream,Acne-prone,899,4.0,Hyaluronic Acid,No,Medium,69
+406,Bioderma,Face Wash,Dry,258,3.6,Glycolic Acid,Yes,Low,64
+407,La Roche-Posay,Moisturizer,Acne-prone,1803,3.8,Niacinamide,No,High,95
+408,Plum,Sunscreen,Sensitive,1210,3.8,Salicylic Acid,Yes,High,97
+409,Bioderma,Serum,Oily,927,4.7,Glycolic Acid,Yes,Medium,57
+410,Neutrogena,Serum,Sensitive,970,4.4,Vitamin C,Yes,Medium,52
+411,The Ordinary,Cream,Dry,1370,3.0,Glycolic Acid,No,High,92
+412,La Roche-Posay,Gel,Acne-prone,1703,3.8,Salicylic Acid,No,High,68
+413,Dot & Key,Toner,Sensitive,1604,4.2,Tea Tree,Yes,High,52
+414,CeraVe,Sunscreen,Dry,567,3.3,Retinol,No,Medium,95
+415,The Ordinary,Serum,Sensitive,1665,4.4,Tea Tree,Yes,High,69
+416,CeraVe,Moisturizer,Acne-prone,425,3.3,Salicylic Acid,Yes,Low,91
+417,Cetaphil,Moisturizer,Oily,1699,3.8,Ceramides,Yes,High,53
+418,Bioderma,Serum,Oily,1552,3.3,Salicylic Acid,Yes,High,92
+419,Neutrogena,Moisturizer,Acne-prone,427,4.3,Aloe Vera,Yes,Low,83
+420,Minimalist,Cleanser,Dry,814,4.8,Ceramides,Yes,Medium,75
+421,Bioderma,Cream,Sensitive,1167,4.9,Tea Tree,Yes,High,55
+422,Cetaphil,Cleanser,Sensitive,792,4.6,Vitamin C,Yes,Medium,89
+423,Cetaphil,Cleanser,Acne-prone,616,4.7,Retinol,Yes,Medium,98
+424,The Ordinary,Moisturizer,Acne-prone,1439,4.2,Ceramides,No,High,96
+425,Minimalist,Moisturizer,Combination,1948,4.9,Zinc,No,High,81
+426,Plum,Moisturizer,Oily,1299,3.2,Tea Tree,Yes,High,60
+427,Dot & Key,Toner,Acne-prone,1492,4.7,Glycolic Acid,Yes,High,57
+428,Plum,Face Wash,Oily,554,3.2,Ceramides,No,Medium,94
+429,Plum,Gel,Sensitive,856,4.9,Zinc,No,Medium,61
+430,Cetaphil,Sunscreen,Dry,756,3.3,Tea Tree,Yes,Medium,90
+431,Bioderma,Sunscreen,Combination,1813,4.6,Ceramides,Yes,High,91
+432,La Roche-Posay,Face Wash,Oily,218,3.6,Niacinamide,No,Low,99
+433,Mamaearth,Toner,Acne-prone,1567,3.5,Salicylic Acid,No,High,54
+434,The Ordinary,Toner,Sensitive,322,4.2,Vitamin C,No,Low,55
+435,CeraVe,Cream,Acne-prone,1915,5.0,Salicylic Acid,Yes,High,97
+436,CeraVe,Moisturizer,Dry,965,4.2,Ceramides,No,Medium,71
+437,Neutrogena,Moisturizer,Sensitive,1152,3.5,Ceramides,Yes,High,80
+438,La Roche-Posay,Gel,Sensitive,459,4.9,Zinc,No,Low,100
+439,The Ordinary,Sunscreen,Dry,1959,3.5,Niacinamide,Yes,High,69
+440,Minimalist,Cream,Sensitive,1805,3.7,Salicylic Acid,Yes,High,92
+441,Bioderma,Cleanser,Sensitive,371,4.2,Retinol,No,Low,50
+442,Mamaearth,Face Wash,Combination,401,4.9,Ceramides,Yes,Low,77
+443,Dot & Key,Cleanser,Combination,736,4.2,Hyaluronic Acid,No,Medium,60
+444,Minimalist,Cream,Oily,601,4.4,Ceramides,Yes,Medium,78
+445,Dot & Key,Cleanser,Sensitive,737,4.2,Vitamin C,No,Medium,69
+446,Cetaphil,Face Wash,Oily,1032,3.6,Hyaluronic Acid,No,High,91
+447,Cetaphil,Gel,Dry,602,3.2,Aloe Vera,No,Medium,61
+448,Dot & Key,Cream,Combination,1849,3.3,Tea Tree,No,High,74
+449,Minimalist,Sunscreen,Dry,532,3.7,Glycolic Acid,No,Medium,58
+450,Bioderma,Cream,Oily,432,4.4,Hyaluronic Acid,Yes,Low,67
+451,Bioderma,Gel,Sensitive,350,3.2,Hyaluronic Acid,No,Low,80
+452,The Ordinary,Sunscreen,Oily,1959,4.4,Glycolic Acid,Yes,High,61
+453,The Ordinary,Face Wash,Oily,1789,4.8,Ceramides,Yes,High,89
+454,Cetaphil,Sunscreen,Dry,466,3.5,Retinol,No,Low,60
+455,Dot & Key,Face Wash,Oily,1318,3.1,Zinc,No,High,74
+456,Cetaphil,Cream,Oily,199,4.6,Niacinamide,Yes,Low,51
+457,The Ordinary,Moisturizer,Acne-prone,747,3.2,Aloe Vera,Yes,Medium,84
+458,La Roche-Posay,Moisturizer,Acne-prone,1144,3.1,Vitamin C,No,High,87
+459,Mamaearth,Cream,Oily,505,4.4,Retinol,Yes,Medium,89
+460,Neutrogena,Face Wash,Acne-prone,405,4.4,Tea Tree,Yes,Low,73
+461,La Roche-Posay,Moisturizer,Sensitive,1412,3.5,Salicylic Acid,Yes,High,86
+462,The Ordinary,Toner,Oily,544,3.5,Tea Tree,No,Medium,76
+463,La Roche-Posay,Gel,Oily,1714,3.6,Salicylic Acid,Yes,High,70
+464,Minimalist,Face Wash,Sensitive,1669,4.7,Niacinamide,No,High,54
+465,Minimalist,Gel,Combination,976,4.7,Vitamin C,No,Medium,64
+466,Mamaearth,Serum,Oily,759,3.2,Tea Tree,No,Medium,91
+467,Minimalist,Sunscreen,Oily,807,4.1,Hyaluronic Acid,Yes,Medium,96
+468,Bioderma,Cleanser,Oily,625,3.8,Hyaluronic Acid,Yes,Medium,95
+469,Minimalist,Face Wash,Dry,1397,3.4,Niacinamide,Yes,High,76
+470,Cetaphil,Gel,Sensitive,1791,3.3,Ceramides,No,High,92
+471,Plum,Toner,Sensitive,1532,4.5,Retinol,No,High,93
+472,Mamaearth,Toner,Sensitive,1770,4.9,Aloe Vera,No,High,96
+473,Mamaearth,Serum,Acne-prone,1769,4.9,Zinc,Yes,High,53
+474,Minimalist,Serum,Dry,940,4.7,Zinc,No,Medium,84
+475,Minimalist,Moisturizer,Dry,1967,4.2,Glycolic Acid,No,High,82
+476,Neutrogena,Face Wash,Sensitive,672,3.0,Glycolic Acid,Yes,Medium,86
+477,La Roche-Posay,Face Wash,Sensitive,871,3.9,Salicylic Acid,No,Medium,89
+478,CeraVe,Cream,Sensitive,503,3.1,Zinc,Yes,Medium,60
+479,Mamaearth,Serum,Oily,557,4.5,Retinol,No,Medium,91
+480,Neutrogena,Toner,Oily,1088,4.4,Niacinamide,No,High,76
+481,Bioderma,Moisturizer,Sensitive,1423,3.4,Salicylic Acid,Yes,High,88
+482,Dot & Key,Moisturizer,Oily,895,4.8,Ceramides,No,Medium,87
+483,Minimalist,Moisturizer,Dry,1573,4.4,Retinol,No,High,92
+484,Minimalist,Sunscreen,Acne-prone,1711,4.8,Niacinamide,No,High,54
+485,The Ordinary,Moisturizer,Sensitive,1475,4.9,Aloe Vera,Yes,High,61
+486,Neutrogena,Sunscreen,Oily,1892,3.1,Hyaluronic Acid,Yes,High,50
+487,Minimalist,Cleanser,Dry,1676,4.4,Niacinamide,Yes,High,66
+488,The Ordinary,Sunscreen,Dry,1737,3.5,Ceramides,No,High,52
+489,The Ordinary,Gel,Combination,1109,3.8,Vitamin C,No,High,69
+490,The Ordinary,Cleanser,Sensitive,282,3.2,Niacinamide,No,Low,91
+491,Mamaearth,Face Wash,Dry,273,4.0,Aloe Vera,Yes,Low,100
+492,CeraVe,Sunscreen,Sensitive,1145,3.2,Aloe Vera,Yes,High,67
+493,Mamaearth,Sunscreen,Oily,322,3.5,Glycolic Acid,No,Low,97
+494,Dot & Key,Sunscreen,Combination,199,4.5,Niacinamide,Yes,Low,63
+495,Bioderma,Cream,Acne-prone,1164,3.6,Hyaluronic Acid,Yes,High,53
+496,The Ordinary,Cream,Oily,1239,3.5,Tea Tree,Yes,High,51
+497,Mamaearth,Face Wash,Oily,1879,5.0,Retinol,No,High,58
+498,Dot & Key,Toner,Oily,1856,4.5,Vitamin C,No,High,68
+499,Mamaearth,Cleanser,Acne-prone,1180,3.3,Vitamin C,No,High,89
+500,Dot & Key,Toner,Dry,1226,3.2,Ceramides,Yes,High,86
