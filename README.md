@@ -1,110 +1,108 @@
-# Project---Skincare-Product-Tracker
-# 🧴 Skincare Product Tracker & Analysis
+# Skincare Products Analysis: EDP Lab Project Report
+**Exploratory Data Analysis using Python, Pandas, Matplotlib, Seaborn, NumPy & D-Tale**
 
-## 📌 Project Overview
+## 📋 Project Overview
+* **Subject:** Data Exploration & Processing (EDP)
+* **Academic Year:** 2025–26
+* **Branch:** Electronics & Telecommunication Engineering — A1 (Group 11)
+* **Dataset:** `skincare_products.xlsx` (500 rows × 14 columns)
+* **Platforms:** Google Colab, GitHub
 
-This project focuses on analyzing skincare products using data science techniques. The dataset contains 500 skincare products with details such as brand, product type, skin type compatibility, price, rating, and key ingredients. The goal is to help users make informed decisions based on their skin type, budget, and ingredient preferences.
+### 👥 Contributors
+* **Ananya Gupta** | 25070123010
+* **Prekhanshi Kumbhakar** | 25070123151
 
 ---
 
-## 🎯 Objective
+## 🎯 Project Aim & Objectives
+The primary goal is to perform comprehensive **Exploratory Data Analysis (EDA)** on a skincare dataset to uncover market trends, brand performance, and the relationship between price and quality.
 
-The main objectives of this project are:
+* **Data Cleaning:** Handle whitespace, binary encoding, and regex-based feature extraction.
+* **Statistical Analysis:** Conduct correlation analysis and grouped aggregations.
+* **Visualisation:** Create 10+ graphs (3 Basic, 7 Advanced) using Matplotlib and Seaborn.
+* **Interactive Tools:** Implement **D-Tale** for automated EDA and a custom **Python-based Product Filter System**.
 
-* To organize and analyze skincare product data
-* To identify the best products for different skin types
-* To filter products based on budget constraints
-* To study the impact of ingredients on product suitability
-* To provide insights into product ratings and brand performance
+---
+
+## 🛠️ Tech Stack & Libraries
+* **Pandas:** Core data manipulation and cleaning.
+* **NumPy:** Numerical operations and polynomial fitting for regression.
+* **Matplotlib:** Low-level plotting for custom basic charts.
+* **Seaborn:** High-level statistical visualisations (Violin plots, Heatmaps).
+* **D-Tale:** Interactive browser-based dashboard for rapid data profiling.
 
 ---
 
 ## 📊 Dataset Description
+The dataset consists of 500 records with 14 original attributes:
 
-The dataset used in this project consists of 500 entries and includes the following attributes:
-
-* **Product ID** – Unique identifier for each product
-* **Brand** – Manufacturer of the product
-* **Product Type** – Category (cleanser, moisturizer, serum, etc.)
-* **Skin Type** – Suitable skin type (oily, dry, combination, sensitive, acne-prone)
-* **Price** – Cost of the product
-* **Rating** – User rating (between 3.0 to 5.0)
-* **Ingredients** – Key active ingredient present in the product
-
----
-
-## 🧹 Data Preprocessing
-
-Before analysis, the dataset was cleaned and prepared using Python libraries. The following steps were performed:
-
-* Removal of duplicate entries
-* Handling missing values
-* Conversion of data types where necessary
-* Verification of dataset structure using functions like `head()` and `info()`
-
-Libraries used:
-
-* Pandas
-* NumPy
+| Column Name | Data Type | Description |
+| :--- | :--- | :--- |
+| **Brand** | String | Brand name (e.g., Mamaearth, CeraVe) |
+| **Product Type** | String | Category (Moisturizer, Serum, Toner) |
+| **Price** | Integer | Price in Indian Rupees (₹203 – ₹1,997) |
+| **Rating** | Float | Customer rating (3.0 – 5.0) |
+| **SPF Level** | String | Sun protection factor (Extracted to numerical) |
+| **Cruelty Free** | String | Binary (Yes/No) |
+| **Popularity** | Integer | Normalised score (50–100) |
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## ⚙️ Methodology & Cleaning
+### 1. Data Preprocessing
+* **Whitespace Stripping:** Applied `.str.strip()` to all categorical columns.
+* **Binary Encoding:** Converted 'Yes/No' columns (Cruelty-Free, Fragrance) to `0/1`.
+* **Feature Engineering:** Extracted numerical SPF values using Regex:
+    ```python
+    df['SPF_Num'] = df['SPF Level'].str.extract(r'(\d+)').astype(float)
+    ```
 
-EDA was performed to understand patterns and trends in the dataset:
-
-* Distribution of products across different skin types
-* Average price and rating of products
-* Brand-wise performance comparison
-* Relationship between price and rating
-
-This step helps in identifying meaningful insights from raw data.
-
----
-
-## 📈 Data Visualization
-
-Various graphs were used to represent the data visually:
-
-* Bar charts for product distribution
-* Scatter plots for price vs rating analysis
-* Brand comparison charts
-* Skin type frequency graphs
-
-Visualization makes it easier to interpret trends and patterns.
+### 2. Statistical Findings
+* **Price vs. Quality:** The correlation between Price and Rating is **-0.011**, proving that higher prices do not guarantee better ratings.
+* **Brand Performance:** **Mamaearth** leads in average rating (4.12), while **La Roche-Posay** is the most expensive on average (₹1,188).
 
 ---
 
-## ⚙️ Features of the Project
+## 📈 Visualisation Highlights
 
-* 🔎 Filter products for acne-prone or specific skin types
-* 💸 Identify products under a given budget
-* ⭐ Find top-rated skincare products
-* 🧪 Analyze ingredient-based product suitability
+### Basic Charts
+* **Horizontal Bar & Donut:** Visualized brand volume and product type distribution.
+* **Histogram:** Showed a right-skewed price distribution (most products ₹500–₹1,500).
 
----
-
-## 🧠 Results & Insights
-
-* Products are distributed across multiple skin types, with higher availability for combination and oily skin
-* Higher price does not always guarantee better ratings
-* Certain ingredients like salicylic acid are commonly found in acne-related products
-* Some brands consistently perform better in terms of ratings
+### Advanced Charts
+* **Violin Plots:** Displayed the KDE and IQR of ratings per product type.
+* **Bubble Chart:** Mapped Price vs. Rating with bubble size representing product count.
+* **100% Stacked Bar:** Analyzed skin-type proportions across all categories.
+* **Correlation Heatmap:** Confirmed feature independence across the dataset.
+* **Regression Plot:** Fitted a linear model using `np.polyfit` to confirm the lack of relationship between price and popularity.
 
 ---
 
-## 🚀 Conclusion
+## 🔍 Interactive Product Filter System
+A terminal-based tool allowing users to find products based on 7 criteria:
+1. Skin Type
+2. Product Type
+3. Budget Category
+4. Cruelty-Free preference
+5. Fragrance-Free preference
+6. Minimum Rating
+7. Maximum Price
 
-This project demonstrates how data analysis can be applied to real-life problems such as skincare selection. By using Python and data visualization techniques, users can make smarter decisions based on data rather than assumptions.
+> **Sample Output:** > *Input: Dry Skin, Moisturizer, < ₹1500*
+> *Result: Found 5 products | Top Brand: The Ordinary | Avg Rating: 3.84*
 
 ---
 
-## 🛠️ Tools & Technologies
-
-* Python
-* Google Colab
-* Pandas
-* NumPy
-* Matplotlib
+## 📝 Conclusion
+This project demonstrates that in the current skincare market, **price is not a reliable indicator of quality**. Using Python's data ecosystem, we successfully transformed raw Excel data into actionable consumer insights, identifying Mamaearth as a high-value brand and proving that ethical attributes like "Cruelty-Free" are now mainstream (50/50 split).
 
 ---
+
+## 📚 References
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
+* [Seaborn Statistical Data Visualisation](https://seaborn.pydata.org/)
+* [D-Tale GitHub Repository](https://github.com/man-group/dtale)
+* Tukey, J.W. (1977). *Exploratory Data Analysis*.
+
+---
+
